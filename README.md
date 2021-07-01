@@ -1,5 +1,5 @@
 # Base-directional-control
-**Created an HTML page containing 5 Putins (Directions) and page layout**
+**Created an HTML page containing 5 Button (Directions) and page layout**
 
 **Create a database with 5 columns of storage**
 
